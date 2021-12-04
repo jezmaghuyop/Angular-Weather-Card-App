@@ -1,4 +1,5 @@
-# WeatherApp
+# Angular Weather Card Application
+A simple Angular Application that consumes a 3rd party API built in Azure Function, api can be found in this repository https://github.com/jezmaghuyop/Angular-Weather-Card-App.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
 
